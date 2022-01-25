@@ -1,0 +1,14 @@
+<xml>
+	<ID>01</ID>
+	<Summery>when changing the password when logging in to the account it gives an erro</Summery>
+	<Project>Employers</Project>
+	<Priority>high</Priority>
+	<Severity>blocking</Severity>
+	<Environment>macOs</Environment>
+	<Pre-condition>I clicked on the did you forget your password button,a letter with a link came to the mai </Pre-condition>
+	<Steps to reproduce>I follwed the link in the email I entered a new password and confirmed it a window appeared about the successful password change
+  I pressed the loginutton an entered my username and new passwordI clicked the log in button and an error appears</Steps to reproduce>
+	<Actual result>an error is displayed when changing the password
+		<Actual result>
+			<Expected result>when changing the password the user successfully logs into the account </Expected result>
+		</xml>
